@@ -93,3 +93,37 @@ After merging and cleaning the generation and weather records, the integrated da
 ├── test_prediction.py     # Script for testing prediction functionality
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+## 9. How to Run the Application
+
+### Step 1: Clone the repository
+```bash
+git clone https://github.com/kunalmohliya02-png/solar-power-generation-prediction.git
+cd solar-power-generation-prediction
+```
+
+### Step 2: Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Step 3: Run the Streamlit application
+```bash
+streamlit run app.py
+```
+
+The application will open in your browser, usually at `http://localhost:8501`.
+
+## 10. Group Members
+
+| Name | Roll Number |
+|---|---|
+| Member 1 | To be added |
+| Member 2 | To be added |
+| Member 3 | To be added |
+
+## 11. References
+
+- Solar Power Generation Data – Kaggle dataset.
+- Scikit-learn Documentation: https://scikit-learn.org/
+- Streamlit Documentation: https://docs.streamlit.io/
+- Pandas Documentation: https://pandas.pydata.org/docs/
