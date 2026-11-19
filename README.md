@@ -8,6 +8,7 @@
 
 ## 1. Project Overview
 This project predicts solar power generation (`AC_POWER`) using environmental parameters collected from solar power plants. By analyzing ambient temperature, module temperature, and solar irradiation, the system estimates power output and provides an interactive **Streamlit** web application for real-time predictions.
+**Live Web App:** [SolarPower Predictor App](https://5ym5vj5vlbkupcyna5pdub.streamlit.app)
 
 ---
 
