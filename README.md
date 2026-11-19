@@ -120,6 +120,7 @@ The application will open in your browser, usually at `http://localhost:8501`.
 | Member 1 | To be added |
 | Member 2 | To be added |
 | Member 3 | To be added |
+| Member 4 | To be added |
 
 ## 11. References
 
